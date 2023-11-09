@@ -1,3 +1,4 @@
 # GIT boinito
 
-##boa 
+## boa 
+* uso do comando git restore
